@@ -20,7 +20,7 @@ public class PlaceOrderTestCases {
     // Test Data
     private String name = "TestUser";
     private String email = "testuser" + System.currentTimeMillis() + "@example.com";
-    private String password = "sjsncbscbsuddddddsnn12223334444cc45";
+    private String password = "sjsncbscbsuddnn1222366666334444cc45";
     private String day = "1";
     private String month = "January";
     private String year = "2000";
