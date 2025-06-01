@@ -1,0 +1,91 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                 Test Method: 'PlaceOrderTestCases.TestCase24_DownloadInvoiceAfterPurchaseOrder'                                 
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://automationexercise.com/" @01-06-2025 12:15:45.0800 PM
+[ReportManager] Initial URL: "about:blank" @01-06-2025 12:15:45.0817 PM
+[ReportManager] Navigate to url "https://automationexercise.com/". @01-06-2025 12:15:46.0869 PM
+[ReportManager] Assert that the element located by "By.id: slider" is visible; hidden attribute is equal to "null". @01-06-2025 12:15:46.0884 PM
+[ReportManager] Get  dom  attribute "By.id: slider" @01-06-2025 12:15:47.0027 PM
+[ReportManager] Expected "null", and actual "null" @01-06-2025 12:15:47.0028 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_12-15-50-250_01062025' @01-06-2025 12:15:50.0265 PM
+[ReportManager] Expected "null", and actual "null" @01-06-2025 12:15:50.0266 PM
+[ReportManager] Verify that home page is visible successfully @01-06-2025 12:15:50.0269 PM
+[ReportManager] Click " Add to cart" @01-06-2025 12:15:50.0389 PM
+[ReportManager] Click "Continue Shopping" @01-06-2025 12:15:50.0758 PM
+[ReportManager] Click " Add to cart" @01-06-2025 12:15:50.0925 PM
+[ReportManager] Click "Continue Shopping" @01-06-2025 12:15:51.0368 PM
+[ReportManager] Click " Add to cart" @01-06-2025 12:15:51.0470 PM
+[ReportManager] Click "Continue Shopping" @01-06-2025 12:15:51.0893 PM
+[ReportManager] Click " Cart" @01-06-2025 12:15:52.0050 PM
+[ReportManager] Assert that the element located by "By.xpath: //*[@id="cart_info_table"]" is visible; hidden attribute is equal to "null". @01-06-2025 12:15:52.0053 PM
+[ReportManager] Get  dom  attribute "By.xpath: //*[@id="cart_info_table"]" @01-06-2025 12:15:53.0164 PM
+[ReportManager] Expected "null", and actual "null" @01-06-2025 12:15:53.0165 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_12-15-53-461_01062025' @01-06-2025 12:15:53.0462 PM
+[ReportManager] Expected "null", and actual "null" @01-06-2025 12:15:53.0463 PM
+[ReportManager] Verify that cart page is displayed @01-06-2025 12:15:53.0464 PM
+[ReportManager] Click "Proceed To Checkout" @01-06-2025 12:15:53.0521 PM
+[ReportManager] Click "By.xpath: //*[@id="checkoutModal"]/div/div/div[2]/p[2]/a/u" @01-06-2025 12:15:53.0573 PM
+[ReportManager] Type "Name" @01-06-2025 12:15:53.0967 PM
+[ReportManager] Type "Email Address" @01-06-2025 12:15:54.0032 PM
+[ReportManager] Click "Signup" @01-06-2025 12:15:54.0103 PM
+[ReportManager] Click "Mrs." @01-06-2025 12:15:54.0463 PM
+[ReportManager] Type "Password *" @01-06-2025 12:15:54.0538 PM
+[ReportManager] Select "1" from "By.id: days". @01-06-2025 12:15:54.0985 PM
+[ReportManager] Select "January" from "By.id: months". @01-06-2025 12:15:55.0296 PM
+[ReportManager] Select "2000" from "By.id: years". @01-06-2025 12:15:55.0867 PM
+[ReportManager] Click "Sign up for our newsletter!" @01-06-2025 12:15:55.0950 PM
+[ReportManager] Click "Receive special offers from our partners!" @01-06-2025 12:15:56.0005 PM
+[ReportManager] Type "First name *" @01-06-2025 12:15:56.0066 PM
+[ReportManager] Type "Last name *" @01-06-2025 12:15:56.0185 PM
+[ReportManager] Type "Company" @01-06-2025 12:15:56.0327 PM
+[ReportManager] Type "Address * (Street address, P.O. Box, Company name, etc.)" @01-06-2025 12:15:56.0456 PM
+[ReportManager] Type "Address 2" @01-06-2025 12:15:56.0539 PM
+[ReportManager] Select "Canada" from "Country *". @01-06-2025 12:15:56.0766 PM
+[ReportManager] Type "State *" @01-06-2025 12:15:56.0835 PM
+[ReportManager] Type "City * Zipcode *" @01-06-2025 12:15:56.0906 PM
+[ReportManager] Type "By.id: zipcode" @01-06-2025 12:15:56.0972 PM
+[ReportManager] Type "Mobile Number *" @01-06-2025 12:15:57.0039 PM
+[ReportManager] Click "Create Account" @01-06-2025 12:15:57.0117 PM
+[ReportManager] Click "Continue" @01-06-2025 12:15:57.0821 PM
+[ReportManager] Assert that the element located by "By.xpath: //*[@id="header"]/div/div/div/div[2]/div/ul/li[10]/a" text contains "TestUser". @01-06-2025 12:15:57.0822 PM
+[ReportManager] Get  text "By.xpath: //*[@id="header"]/div/div/div/div[2]/div/ul/li[10]/a" @01-06-2025 12:15:58.0242 PM
+[ReportManager] Expected "TestUser", and actual "Logged in as TestUser" @01-06-2025 12:15:58.0243 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_12-15-59-397_01062025' @01-06-2025 12:15:59.0401 PM
+[ReportManager] Expected "TestUser", and actual "Logged in as TestUser" @01-06-2025 12:15:59.0401 PM
+[ReportManager] Verify that 'Logged in as username' is visible @01-06-2025 12:15:59.0402 PM
+[ReportManager] Click " Cart" @01-06-2025 12:15:59.0453 PM
+[ReportManager] Click "Proceed To Checkout" @01-06-2025 12:15:59.0881 PM
+[ReportManager] Assert that the element located by "By.xpath: //*[@id="cart_items"]/div/div[2]/h2" is visible; hidden attribute is equal to "null". @01-06-2025 12:15:59.0882 PM
+[ReportManager] Get  dom  attribute "Address Details" @01-06-2025 12:16:00.0286 PM
+[ReportManager] Expected "null", and actual "null" @01-06-2025 12:16:00.0286 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_12-16-00-787_01062025' @01-06-2025 12:16:00.0794 PM
+[ReportManager] Expected "null", and actual "null" @01-06-2025 12:16:00.0795 PM
+[ReportManager] Verify Address Details is displayed @01-06-2025 12:16:00.0807 PM
+[ReportManager] Assert that the element located by "By.xpath: //*[@id="cart_items"]/div/div[4]/h2" is visible; hidden attribute is equal to "null". @01-06-2025 12:16:00.0810 PM
+[ReportManager] Get  dom  attribute "Review Your Order" @01-06-2025 12:16:00.0942 PM
+[ReportManager] Expected "null", and actual "null" @01-06-2025 12:16:00.0943 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_12-16-01-578_01062025' @01-06-2025 12:16:01.0583 PM
+[ReportManager] Expected "null", and actual "null" @01-06-2025 12:16:01.0585 PM
+[ReportManager] Verify Review Your Order is displayed @01-06-2025 12:16:01.0586 PM
+[ReportManager] Element found. @01-06-2025 12:16:01.0602 PM
+[ReportManager] Scroll to element "By.xpath: //*[@id="ordermsg"]/textarea". @01-06-2025 12:16:01.0659 PM
+[ReportManager] Type "By.xpath: //*[@id="ordermsg"]/textarea" @01-06-2025 12:16:01.0846 PM
+[ReportManager] Click "Place Order" @01-06-2025 12:16:01.0938 PM
+[ReportManager] Type "By.xpath: //*[@id="payment-form"]/div[1]/div/input" @01-06-2025 12:16:02.0443 PM
+[ReportManager] Type "By.xpath: //*[@id="payment-form"]/div[2]/div/input" @01-06-2025 12:16:02.0537 PM
+[ReportManager] Type "ex. 311" @01-06-2025 12:16:02.0614 PM
+[ReportManager] Type "MM" @01-06-2025 12:16:02.0704 PM
+[ReportManager] Type "YYYY" @01-06-2025 12:16:02.0830 PM
+[ReportManager] Click "Pay and Confirm Order" @01-06-2025 12:16:02.0917 PM
+[ReportManager] Click "Download Invoice" @01-06-2025 12:16:04.0656 PM
+[ReportManager] Click "Continue" @01-06-2025 12:16:04.0970 PM
+[ReportManager] Click " Delete Account" @01-06-2025 12:16:05.0397 PM
+[ReportManager] Assert that the element located by "By.xpath: //h2[@data-qa='account-deleted']" text is equal to "ACCOUNT DELETED!". @01-06-2025 12:16:05.0398 PM
+[ReportManager] Get  text "ACCOUNT DELETED!" @01-06-2025 12:16:06.0070 PM
+[ReportManager] Expected "ACCOUNT DELETED!", and actual "ACCOUNT DELETED!" @01-06-2025 12:16:06.0070 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_12-16-06-291_01062025' @01-06-2025 12:16:06.0292 PM
+[ReportManager] Expected "ACCOUNT DELETED!", and actual "ACCOUNT DELETED!" @01-06-2025 12:16:06.0293 PM
+[ReportManager] Verify that 'ACCOUNT DELETED!' is visible @01-06-2025 12:16:06.0294 PM
