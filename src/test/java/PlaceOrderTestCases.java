@@ -43,7 +43,7 @@ public class PlaceOrderTestCases {
 
     private String CorrectEmail = "suzo@mailinator.com";
     private String CorrectPassword = "12345";
-    private String expectedInvoiceFileName = "invoice.txt";
+    //private String expectedInvoiceFileName = "invoice.txt";
 
 
 
